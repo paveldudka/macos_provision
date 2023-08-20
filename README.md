@@ -1,2 +1,9 @@
-# macos_provision
-initial provisioning of new MacOS machines
+# MacOS Provisioning
+
+Initial provisioning of new MacOS machines
+
+## Usage
+
+```bash
+
+```
